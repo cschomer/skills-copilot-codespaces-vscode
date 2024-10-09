@@ -1,4 +1,4 @@
-
+// Create web server
 // run the server with node comments.js
 // open browser and navigate to http://localhost:3000/comments
 // you should see the text 'Hello World' show up in the browser
